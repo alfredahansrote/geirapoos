@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://baichaexo.simon-rose.co.uk/sitemap.xml
